@@ -1,5 +1,9 @@
 # Agent Skills Hub
 
+## 推荐网站
+- [https://skills.sh/](https://skills.sh/) - Vercel 官方推荐
+- [https://skillsmp.com/](https://skillsmp.com/) - Skill Map网站
+
 ## UI 技能
 
 #### 1. ui-ux-pro-max
